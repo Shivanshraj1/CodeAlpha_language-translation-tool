@@ -1,4 +1,4 @@
-# CodeAlpha Language Translation Tool
+# Language Translation Tool
 
 A web-based language translation tool built for an AI internship task. It lets users enter text, select source and target languages, and view translated output automatically.
 
