@@ -64,7 +64,6 @@ language-translation-tool/
 ## Internship Task
 
 This project was created for the Language Translation Tool task. It includes a user interface, language selection, API-based translation, translated output display, copy support, and text-to-speech support.
-
 ~SR
 
 ## Source Code
