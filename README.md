@@ -68,3 +68,5 @@ This project was created for the Language Translation Tool task. It includes a u
 ## Source Code
 
 [GitHub Repository](https://github.com/Shivanshraj1/CodeAlpha_language-translation-tool)
+
+Made with 💗 by SR
